@@ -1,13 +1,14 @@
-# OpenCV_ColorSegementation_Filtering
+# Color Segementation Filtering and Masks
 
 <p align="center">
-  <img src="data/0.png" alt="Project Logo Cover" width="1500"/>
+  <img src="data_readme/project_title.png" alt="Project Logo Cover" width="1500"/>
 </p>
 
 ---------------------------------------------
 
 ## About this Project:
 
+The project focuses on color segementation in images using OpenCV, a powerful image porocessing library. The core of the project is the `ColorSpaceProcessor` class, designed to extract specific solors from an image by converting it into various color spaces like grascale and HSV(Hue, Saturation, Value). The class allows users to specify color ranges for segementation and efficientyl processes images to isolate these colors. This functionality is particularly valuable in applications hwere precise color detection and isolation are crucial, such as in quality control, medical imaging, or even in artistic domains. The script is a testament to the versatility of Python and OpenCV in handling complex image processing tasks with ease and efficiency.
 ---------------------------------------------
 
 ## What is Kinematics Bicycle Model:
